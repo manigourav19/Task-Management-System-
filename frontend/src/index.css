@@ -1,0 +1,13 @@
+html{
+  box-sizing: border-box;
+}
+
+body, #root{
+  height:100vh;
+  margin:0;
+  /* font-family:Raleway, Arial, Helvetica, sans-serif !important; */
+}
+
+/* .adminScreen{
+  height:60vh;
+} */

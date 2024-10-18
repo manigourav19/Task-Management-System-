@@ -1,0 +1,69 @@
+
+{
+    "tasks": [
+      {
+        "_id": "task1",
+        "image": "/images/task1.png",
+        "title": "Developing UI using ReactJS",
+        "desc": "Convert figma designs to Frontend Code using reactjs. Also pull the required data from the backend and render it in the frontend. The user acceptance testing shoud be followed strictly for creating the desired user interfaces.",
+        "type": ["software"],
+        "deadline": 15
+      },
+      {
+        "_id": "task2",
+        "image": "/images/task2.jpg",
+        "title": "Organize webinar on IMPACT program",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga .",
+        "type": ["workforce"],
+        "deadline":17
+      },
+      {
+        "_id": "task3",
+        "image": "images/task3.jpg",
+        "title": "Provide work updates to the client",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga .",
+        "type": ["business"],
+        "deadline": 20
+      },
+      {
+        "_id": "task4",
+        "image": "/images/task4.jpg",
+        "title": "Check the application responsiveness",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga .",
+        "type": ["software"],
+        "deadline":23
+      },
+      {
+        "_id": "task5",
+        "image": "/images/task5.png",
+        "title": " Performance testing and optimization",
+        "desc": "Ensure that the back end operations such as query time and throughput both work properly,check that the website works appropriately on different browsers.Also enable the website to handle large volumes and different patterns of traffic.",
+        "type": ["software"],
+        "deadline": 25
+      },
+      {
+        "_id": "task6",
+        "image": "/images/task6.png",
+        "title": "Update Risk Management Playbooks and Plans",
+        "desc": "Ensure to update business continuity and recovery plans, build a culture of preparedness and test the existing plans. Also establish processes that can protect the organization, people, technology, facilities and customers. ",
+        "type": ["business"],
+        "deadline": 27
+      },
+      {
+        "_id": "task7",
+        "image": "/images/task7.png",
+        "title": "Develop new training strategies",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga .",
+        "type": ["workforce"],
+        "deadline":30
+      },
+      {
+        "_id": "task8",
+        "image": "/images/task8.webp",
+        "title": "Build reusable code and libraries ",
+        "desc": "Plan and identify all the parts of the software which needs to be divided into chunks. Divide the software system into multiple independent modules and make each class/method do just one thing.Also Focus on the functionality and required performance.",
+        "type": ["software"],
+        "deadline":35
+      }
+    ]
+  }
